@@ -1,6 +1,7 @@
 '''
 Created on 10.02.2017
 @author: Petronela Cretu
+Python version 2.7
 '''
 
 
